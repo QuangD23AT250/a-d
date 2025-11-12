@@ -1,0 +1,5 @@
+checklib
+websockets
+openpyxl
+websocket-client
+textract
